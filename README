@@ -1,0 +1,2 @@
+A Berkeley-esque socket API for UTP that is implemented on top of
+bittorrent's libutp.
